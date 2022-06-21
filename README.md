@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Welcome to my Github profile! 👋
+- I am a software engineering student currently in the last year of my bachelor;
+- This is also the repo for my personal website that I am starting to develop;
+- Connect with me on [Linkedin](https://www.linkedin.com/in/nelsonfsloureiro/)
 <!--
 **nelsonloureiro24/nelsonloureiro24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
